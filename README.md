@@ -6,8 +6,7 @@ I am a fullstack web developer who has been working with Python, Django and Java
 
 ### 🔭 I’m currently working on ...
 
-- A tutoring website for university students, where they can have access to tutors and tutors can make an extra buck tutoring.
-- An Information Management System to manage a companies information.
+- I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 - Personal website
 
 ### 🌱 I’m currently learning ...
