@@ -1,4 +1,27 @@
-### Hi there 👋
+# Welcome to Richard Iradukunda's profile
+
+## About me
+
+I am a fullstack web developer who has been working with Python, Django and JavaScript for the last 3 years. I have experience in building web applications and APIs, developing MVPs and UI/UX designs.
+
+### 🔭 I’m currently working on ...
+
+- A tutoring website for university students, where they can have access to tutors and tutors can make an extra buck tutoring.
+- An Information Management System to manage a companies information.
+- Personal website
+
+### 🌱 I’m currently learning ...
+
+- TypeScript
+- Flutter for mobile apps development
+
+### 💬 Ask me about ...
+
+- Python, Django and Django REST Framework related issues
+
+### 📫 How to reach me: ...
+
+- By email - richardirad@gmail.com
 
 <!--
 **Richy-irad/Richy-irad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
