@@ -1,4 +1,4 @@
-# Welcome to Richard Iradukunda's profile
+# Welcome to Richard Iradukunda's profile <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
 ## About me
 
